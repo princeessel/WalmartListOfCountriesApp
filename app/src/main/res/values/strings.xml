@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WalmartListOfCountriesApp</string>
+    <string name="countries">Countries</string>
+    <string name="country_and_region">%1$s, %2$s</string>
+</resources>
